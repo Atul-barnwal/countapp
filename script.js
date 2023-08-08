@@ -91,7 +91,7 @@ let myGreeting= greeting+name
 
 
 
-// let bonuspoint=50
+// let bonuspoint=90
 // console.log(bonuspoint)
 // bonuspoint+=50
 // console.log(bonuspoint)
